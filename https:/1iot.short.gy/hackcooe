@@ -9,6 +9,6 @@ pkg install figlet
 pkg install ruby
 gem install lolcat
 pip install alive_progress
-wget -q 
+wget -q https://github.com/Narender121/dhhg/blob/main/https%3A/raw.githubusercontent.com/iamskumar/trial/main/trial.py
 clear
 python trial.py
