@@ -335,5 +335,5 @@ else:
             clear()
             banner='figlet COOE|lolcat'
             system(banner)
-            print("Incorrect Activation Code :")
+            print("correct Activation Code :")
      
